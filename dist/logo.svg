@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M40 120 L100 40 L160 120 L100 160 Z" fill="#EF4444"/>
+  <path d="M40 120 L100 160 L160 120" stroke="white" stroke-width="4"/>
+  <text x="100" y="140" text-anchor="middle" fill="white" font-family="Arial" font-weight="bold" font-size="24">SGV Auto</text>
+</svg>
