@@ -1,0 +1,21 @@
+# Netlify configuration file
+
+# Build settings
+[build]
+  publish = "dist"
+  command = "npm run build"
+
+# This redirects all routes to index.html for client-side routing
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
+  force = true
+
+# Environment variables
+[context.production.environment]
+  NODE_VERSION = "18"
+
+# Custom domain configuration
+[build.environment]
+  CUSTOM_DOMAIN = "sgvauto.ru"
