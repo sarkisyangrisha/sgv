@@ -1,0 +1,8 @@
+<svg width="1000" height="300" viewBox="0 0 1000 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M0 0h1000v300H0z" fill="none"/>
+  <path d="M100 50h800v200H100z" fill="none"/>
+  <path d="M150 75 H350 V125 H300 V225 H200 V125 H150 V75 Z" fill="#0A0F1C"/>
+  <path d="M400 75 H600 V125 H550 V225 H450 V125 H400 V75 Z" fill="#0A0F1C"/>
+  <path d="M650 75 H850 L800 225 H700 L650 75 Z" fill="#0A0F1C"/>
+  <text x="150" y="275" fill="#E54D2E" style="font: bold 48px sans-serif">A U T O</text>
+</svg>
